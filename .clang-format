@@ -1,0 +1,15 @@
+---
+Language: Cpp
+BasedOnStyle: LLVM
+IndentWidth: 3
+ColumnLimit: 100
+AllowShortFunctionsOnASingleLine: None
+AlwaysBreakAfterReturnType: AllDefinitions
+BreakBeforeBraces: Custom
+BraceWrapping:
+  AfterFunction: true
+  AfterControlStatement: MultiLine
+  BeforeElse: false
+PointerAlignment: Right
+SpaceAfterCStyleCast: false
+...
